@@ -49,4 +49,5 @@
 /web.config
 composer.lock
 
+/nbproject
 /nbproject/private/
